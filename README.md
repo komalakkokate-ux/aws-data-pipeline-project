@@ -73,3 +73,5 @@ AWS credentials are NOT hardcoded. Secure methods should be used like environmen
 ## 🙋 Author
 
 Komal Kokate
+
+This project is for learning purposes only. Unauthorized commercial use is not allowed.
