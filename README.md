@@ -1,6 +1,6 @@
-# AWS Data Pipeline Project 🚀
+# AWS Data Pipeline Project 
 
-## 📌 Overview
+##  Overview
 
 This project demonstrates a simple data pipeline using PySpark and AWS S3.
 
@@ -10,7 +10,7 @@ This project demonstrates a simple data pipeline using PySpark and AWS S3.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Python
 * PySpark
@@ -19,7 +19,7 @@ This project demonstrates a simple data pipeline using PySpark and AWS S3.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 aws-data-pipeline/
@@ -32,7 +32,7 @@ aws-data-pipeline/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Install dependencies
 
@@ -48,7 +48,7 @@ python pipeline.py
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### 🔹 S3 Bucket
 
@@ -64,7 +64,7 @@ python pipeline.py
 
 ---
 
-## 🔐 Security Note
+##  Security Note
 
 AWS credentials are NOT hardcoded. Secure methods should be used like environment variables or IAM roles.
 
